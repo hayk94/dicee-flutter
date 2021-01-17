@@ -1,0 +1,3 @@
+# Dicee 🎲
+
+Roll the dice!
